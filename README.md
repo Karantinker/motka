@@ -1,4 +1,4 @@
 # motka
 this is my first repository
 <br>
-author-karan
+author-karan kumar tinker
